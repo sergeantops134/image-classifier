@@ -1,0 +1,11 @@
+.image-classifier {
+  &__predictions {
+    &-item {
+      color: var(--ic-text-light);
+    }
+
+    &-container {
+      background-color: var(--ic-surface-02);
+    }
+  }
+}
